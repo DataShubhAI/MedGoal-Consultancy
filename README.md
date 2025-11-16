@@ -6,7 +6,6 @@ A modern, responsive, and SEO-optimized website designed and developed entirely 
 
 This website represents **MedGoal Consultancy**, an educational counseling firm based in Patna, Bihar.  
 It provides complete details about services, admission guidance, inquiry forms, and contact options for students seeking domestic or overseas education.
-<img width="1440" height="900" alt="Screenshot 2025-11-16 at 3 07 35 PM" src="https://github.com/user-attachments/assets/98dfe2ba-a740-49bc-bc27-e7d169df9afa" />
 
 ---
 
@@ -14,6 +13,7 @@ It provides complete details about services, admission guidance, inquiry forms, 
 
 This project aims to help students from **Bihar** access quality higher education in **India and abroad**.  
 The website includes a clean UI, responsive layout, optimized performance, and professional form handling via **Formspree**.
+<img width="1440" height="900" alt="Screenshot 2025-11-16 at 3 07 35 PM" src="https://github.com/user-attachments/assets/beeeffa9-c766-4bc6-a90b-74767805773d" />
 
 ---
 
